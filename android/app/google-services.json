@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462489137101",
+    "project_id": "studentissimo-85f2a",
+    "storage_bucket": "studentissimo-85f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462489137101:android:ea007cca6274885c831e84",
+        "android_client_info": {
+          "package_name": "com.example.studentissimo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_a76OWJYHaiYgdo6eCy_e_A4ey7GDAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
